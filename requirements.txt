@@ -1,0 +1,8 @@
+flask
+joblib
+numpy
+scikit-learn
+pandas
+gunicorn
+streamlit
+google-play-scraper
